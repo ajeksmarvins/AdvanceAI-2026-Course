@@ -1,0 +1,51 @@
+date,product,region,quantity,unit_price,customer_email,total_sales
+2024-06-15,Wireless Mouse,Unknown,2.0,49.99,customer34@example.com,99.98
+,Keyboard,East,1.0,99.99,customer21@example.com,99.99
+2024-06-15,Keyboard,West,2.0,49.99,customer13@example.com,99.98
+2024-06-15,Laptop Pro,Unknown,2.0,99.99,customer47@example.com,199.98
+,Wireless Mouse,West,3.0,99.99,customer7@example.com,299.96999999999997
+,Monitor 24 Inch,North,10.0,29.99,customer20@example.com,299.9
+,Docking Station,Unknown,1.0,29.99,customer5@example.com,29.99
+2024-06-15,"Monitor 24""",Central,0.0,199.99,customer3@example.com,0.0
+,Usb-C Cable,West,2.0,99.99,customer45@example.com,199.98
+,Docking Station,West,1.0,29.99,customer14@example.com,29.99
+,Docking Station,Central,1.0,29.99,customer33@example.com,29.99
+2024-06-15,Keyboard,East,-2.0,29.99,customer12@example.com,-59.98
+2024-06-15,Wireless Mouse,Central,3.0,29.99,,89.97
+,Laptop Pro,Central,1.0,29.99,customer42@example.com,29.99
+2024-06-15,Webcam Hd,East,1.0,49.99,customer37@example.com,49.99
+2024-06-15,Docking Station,North,-2.0,29.99,customer23@example.com,-59.98
+2024-06-15,Wireless Mouse,West,1.0,49.99,customer41@example.com,49.99
+2024-06-15,"Monitor 24""",South,1.0,29.99,customer4@example.com,29.99
+,Wireless Mouse,West,2.0,29.99,customer11@example.com,59.98
+2024-06-15,Wireless Mouse,North,2.0,39.99,customer26@example.com,79.98
+2024-06-15,Laptop Pro,South,3.0,29.99,customer43@example.com,89.97
+2024-06-15,Usb-C Cable,South,1.0,29.99,customer1@example.com,29.99
+2024-06-15,Keyboard,Unknown,1.0,29.99,,29.99
+2024-06-15,Monitor 24 Inch,West,1.0,49.99,customer46@example.com,49.99
+,Laptop Pro,North,2.0,29.99,customer49@example.com,59.98
+,Docking Station,West,-1.0,29.99,customer15@example.com,-29.99
+2024-06-15,Laptop Pro,North,3.0,29.99,customer36@example.com,89.97
+,Usb-C Cable,North,3.0,99.99,customer44@example.com,299.96999999999997
+2024-06-15,"Monitor 24""",Unknown,3.0,29.99,,89.97
+2024-06-15,Monitor 24 Inch,South,-1.0,49.99,customer9@example.com,-49.99
+2024-06-15,Docking Station,West,1.0,29.99,customer29@example.com,29.99
+,Monitor 24 Inch,North,2.0,49.99,customer30@example.com,99.98
+,Wireless Mouse,North,3.0,39.99,customer22@example.com,119.97
+2024-06-15,Laptop Pro,North,1.0,49.99,,49.99
+2024-06-15,Wireless Mouse,North,5.0,29.99,customer27@example.com,149.95
+,Laptop Pro,South,2.0,29.99,customer10@example.com,59.98
+,Monitor 24 Inch,West,0.0,99.99,,0.0
+2024-06-15,Keyboard,Central,2.0,29.99,customer17@example.com,59.98
+2024-06-15,Webcam Hd,Unknown,1.0,29.99,customer38@example.com,29.99
+2024-06-15,Keyboard,East,2.0,49.99,customer39@example.com,99.98
+2024-06-15,Monitor 24 Inch,East,5.0,49.99,,249.95000000000002
+,Webcam Hd,West,2.0,29.99,,59.98
+2024-06-15,Docking Station,West,0.0,29.99,customer6@example.com,0.0
+2024-06-15,Usb-C Cable,Central,3.0,29.99,customer31@example.com,89.97
+2024-06-15,Keyboard,Central,3.0,99.99,customer2@example.com,299.96999999999997
+,Keyboard,Central,5.0,99.99,customer25@example.com,499.95
+2024-06-15,Usb-C Cable,South,0.0,99.99,customer18@example.com,0.0
+,Monitor 24 Inch,West,2.0,49.99,customer35@example.com,99.98
+2024-06-15,Webcam Hd,Central,2.0,29.99,customer19@example.com,59.98
+,Monitor 24 Inch,East,3.0,49.99,customer28@example.com,149.97

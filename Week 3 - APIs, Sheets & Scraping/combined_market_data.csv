@@ -1,0 +1,16 @@
+name,symbol,current_price,market_cap,Type
+Bitcoin,btc,63042.0,1264860872828,Cryptocurrency
+Ethereum,eth,1865.87,225166975271,Cryptocurrency
+Tether,usdt,0.999147,183298885353,Cryptocurrency
+BNB,bnb,578.82,77072517037,Cryptocurrency
+USDC,usdc,0.999621,71918459864,Cryptocurrency
+XRP,xrp,1.063,66440356341,Cryptocurrency
+Solana,sol,72.83,42315638914,Cryptocurrency
+TRON,trx,0.327747,31097497250,Cryptocurrency
+Figure Heloc,figr_heloc,1.014,21074502628,Cryptocurrency
+WhiteBIT Coin,wbt,55.01,16171923697,Cryptocurrency
+Apple Inc.,AAPL,308.91,4537070911488,Stock
+Microsoft Corporation,MSFT,464.72,3450799652864,Stock
+Alphabet Inc.,GOOGL,356.13,4355446800384,Stock
+"Amazon.com, Inc.",AMZN,271.58,2921415835648,Stock
+"Tesla, Inc.",TSLA,311.21,1229138690048,Stock
