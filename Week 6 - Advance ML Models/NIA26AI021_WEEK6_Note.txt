@@ -1,0 +1,99 @@
+NIA26AI021 -  6WEEK PRACTICE NOTES
+ADVANCED ML MODELS
+
+VID 1 - XGBoost
+
+Models compared:
+- Logistic Regression
+- Random Forest
+- XGBoost
+
+scale_pos_weight: 0.6071
+
+Comparison:
+
+Model                  F1 Score    ROC-AUC
+Logistic Regression    0.9311      0.9726
+Random Forest          0.9859      0.9988
+XGBoost                0.9820      0.9987
+
+Question:
+Which model would you deploy and why?
+
+Answer:
+I would deploy the Random Forest model because it achieved the best
+overall performance, with an accuracy of 98.24%, F1 Score of 98.59%,
+and ROC-AUC of 99.88%. Since this is a loan approval task that affects
+people, explainability should also be considered when making the final
+deployment decision.
+
+
+VID 2 - Imbalance Handling and Hyperparameter Tuning
+
+Imbalance Handling Results:
+
+Method                         Precision    Recall    F1 Score
+Baseline Random Forest         0.9831       0.9887    0.9859
+Random Forest - Class Weights  0.9814       0.9925    0.9869
+Random Forest - SMOTE          0.9849       0.9849    0.9849
+
+Best Recall:
+Class Weights - 0.9925 (99.25%)
+
+Best Balance:
+Class Weights - 0.9869 F1 Score (98.69%)
+
+
+Before Tuning vs After Tuning:
+
+Metric              Before       After
+Accuracy             0.9824       0.9848
+Precision            0.9831       0.9850
+Recall               0.9887       0.9906
+F1 Score             0.9859       0.9878
+
+Tuning improved the F1 Score from 0.9859 to 0.9878.
+
+F1 improvement: 0.0019
+Percentage improvement: 0.19%
+
+Best Model:
+NIA26AI021_Week6_Vid2_Best_RandomForest.joblib
+
+
+VID 3 - Model Deployment
+
+Completed:
+- Loaded the saved tuned model.
+- Created a prediction function.
+- Generated predictions and probabilities.
+- Assigned risk levels.
+- Implemented database logging.
+- Processed new records from a CSV.
+- Saved prediction results to a CSV.
+- Tested the deployment pipeline end-to-end.
+- Verified database records.
+- Checked high-risk records.
+
+Deployment test:
+5 records processed.
+5 database records verified.
+4 high-risk records detected.
+
+
+SUBMISSION FILES
+
+NIA26AI021_Week6_Vid1.py
+NIA26AI021_Week6_Vid1_Model_Comparison.csv
+NIA26AI021_Week6_Vid1_XGBoost_Feature_Importance.png
+
+NIA26AI021_Week6_Vid2.py
+NIA26AI021_Week6_Vid2_Imbalance_Comparison.csv
+NIA26AI021_Week6_Vid2_Best_RandomForest.joblib
+
+NIA26AI021_Week6_Vid3.py
+NIA26AI021_Week6_Vid3_New_Loan_Records.csv
+NIA26AI021_Week6_Vid3_Prediction_Results.csv
+NIA26AI021_Week6_Vid3_Predictions.db
+
+requirements.txt

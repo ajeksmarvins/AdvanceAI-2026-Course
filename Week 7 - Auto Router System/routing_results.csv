@@ -1,0 +1,6 @@
+assigned_team,predicted_team,confidence,needs_manual_review,note,ticket_id
+General Support,Technical,0.64,True,Low confidence - sent to General Support for manual review,NEW_001
+Billing,Billing,0.84,False,High-confidence automatic routing,NEW_002
+General Support,Technical,0.69,True,Low confidence - sent to General Support for manual review,NEW_003
+General Support,General,0.61,True,Low confidence - sent to General Support for manual review,NEW_004
+General,General,0.76,False,High-confidence automatic routing,NEW_005

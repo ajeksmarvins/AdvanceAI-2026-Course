@@ -1,0 +1,501 @@
+ticket_id,subject,description,assigned_team
+TKT00127,Cannot log into account,I enter my username and password but the login button doesn't respond.,Technical
+TKT00487,Partnership inquiry,Our company is interested in a partnership opportunity.,General
+TKT00134,Printer not responding,The printer shows as offline even though it's connected to the network. Please help as soon as possible.,Technical
+TKT00333,Shipping status inquiry,My order shows shipped but the tracking number doesn't work.,General
+TKT00377,Overcharged this month,My bill shows an extra charge I don't recognize.,Billing
+TKT00306,Payment not processed,I made a payment three days ago but it still shows as pending.,Billing
+TKT00095,Shipping status inquiry,My order shows shipped but the tracking number doesn't work.,General
+TKT00365,Promo code not applied,I entered a discount code at checkout but was charged full price.,Billing
+TKT00162,Return policy question,Can I return an item after 30 days if it's unopened?,General
+TKT00418,Billing cycle question,When does my billing cycle start and end?,Billing
+TKT00311,Printer not responding,The printer shows as offline even though it's connected to the network.,Technical
+TKT00236,Subscription charge error,I was charged for a subscription I thought I canceled.,Billing
+TKT00346,Payment not processed,I made a payment three days ago but it still shows as pending.,Billing
+TKT00080,Files not syncing,My files are not syncing between my laptop and the cloud drive.,Technical
+TKT00093,Feedback submission,I'd like to provide feedback on a recent purchase experience.,General
+TKT00243,Shipping status inquiry,My order shows shipped but the tracking number doesn't work.,General
+TKT00314,Promo code not applied,I entered a discount code at checkout but was charged full price.,Billing
+TKT00273,Refund status inquiry,I requested a refund last week and haven't received confirmation.,Billing
+TKT00203,Subscription charge error,I was charged for a subscription I thought I canceled.,Billing
+TKT00214,Invoice discrepancy,The invoice amount doesn't match my plan pricing.,Billing
+TKT00385,Software update failed,The update downloads but fails at 45 percent every time.,Technical
+TKT00422,Account upgrade request,I want to upgrade from basic to premium plan mid-cycle. Please help as soon as possible.,General
+TKT00138,Partnership inquiry,Our company is interested in a partnership opportunity.,General
+TKT00218,Email delivery delay,Emails are taking several hours to arrive after being sent.,Technical
+TKT00246,Cannot log into account,I enter my username and password but the login button doesn't respond.,Technical
+TKT00386,Warranty information,Does this product come with a warranty and what does it cover? Please help as soon as possible.,General
+TKT00189,Duplicate charge on card,There are two identical charges on my credit card statement.,Billing
+TKT00248,Invoice discrepancy,The invoice amount doesn't match my plan pricing.,Billing
+TKT00206,Product availability question,Do you have this product in the blue color variant?,General
+TKT00014,Return policy question,Can I return an item after 30 days if it's unopened?,General
+TKT00121,Overcharged this month,My bill shows an extra charge I don't recognize.,Billing
+TKT00047,Promo code not applied,I entered a discount code at checkout but was charged full price.,Billing
+TKT00405,Warranty information,Does this product come with a warranty and what does it cover?,General
+TKT00110,Email delivery delay,Emails are taking several hours to arrive after being sent.,Technical
+TKT00326,Connection timeout error,I keep getting a connection timeout when trying to access the dashboard.,Technical
+TKT00147,Annual renewal fee,My annual renewal was processed without notification.,Billing
+TKT00420,Duplicate charge on card,There are two identical charges on my credit card statement.,Billing
+TKT00082,Email delivery delay,Emails are taking several hours to arrive after being sent.,Technical
+TKT00440,Invoice discrepancy,The invoice amount doesn't match my plan pricing.,Billing
+TKT00112,Return policy question,Can I return an item after 30 days if it's unopened?,General
+TKT00021,Warranty information,Does this product come with a warranty and what does it cover?,General
+TKT00111,Feedback submission,I'd like to provide feedback on a recent purchase experience.,General
+TKT00478,Password reset not working,I requested a password reset but never received the email.,Technical
+TKT00060,Password reset not working,I requested a password reset but never received the email.,Technical
+TKT00459,Duplicate charge on card,There are two identical charges on my credit card statement.,Billing
+TKT00165,Two-factor authentication problem,The authentication app is not generating valid codes.,Technical
+TKT00063,Email delivery delay,Emails are taking several hours to arrive after being sent.,Technical
+TKT00369,App crashes on startup,The application closes immediately after opening. Version 3.2.1.,Technical
+TKT00170,Warranty information,Does this product come with a warranty and what does it cover? Please help as soon as possible.,General
+TKT00028,Cannot log into account,I enter my username and password but the login button doesn't respond. Please help as soon as possible.,Technical
+TKT00256,Warranty information,Does this product come with a warranty and what does it cover?,General
+TKT00036,Software update failed,The update downloads but fails at 45 percent every time.,Technical
+TKT00016,Files not syncing,My files are not syncing between my laptop and the cloud drive.,Technical
+TKT00039,Media contact,I'm a journalist looking for a press contact for a story.,General
+TKT00313,Duplicate charge on card,There are two identical charges on my credit card statement.,Billing
+TKT00056,Partnership inquiry,Our company is interested in a partnership opportunity.,General
+TKT00003,Store location query,What are your store hours on weekends? Please help as soon as possible.,General
+TKT00375,Duplicate charge on card,There are two identical charges on my credit card statement.,Billing
+TKT00086,Cannot log into account,I enter my username and password but the login button doesn't respond.,Technical
+TKT00471,Billing cycle question,When does my billing cycle start and end? Please help as soon as possible.,Billing
+TKT00318,Account upgrade request,I want to upgrade from basic to premium plan mid-cycle.,General
+TKT00391,Billing cycle question,When does my billing cycle start and end?,Billing
+TKT00403,Subscription charge error,I was charged for a subscription I thought I canceled.,Billing
+TKT00061,Account upgrade request,I want to upgrade from basic to premium plan mid-cycle.,General
+TKT00027,Printer not responding,The printer shows as offline even though it's connected to the network.,Technical
+TKT00412,Files not syncing,My files are not syncing between my laptop and the cloud drive.,Technical
+TKT00296,Return policy question,Can I return an item after 30 days if it's unopened?,General
+TKT00055,Email delivery delay,Emails are taking several hours to arrive after being sent.,Technical
+TKT00381,Product availability question,Do you have this product in the blue color variant?,General
+TKT00210,Refund status inquiry,I requested a refund last week and haven't received confirmation.,Billing
+TKT00448,Product availability question,Do you have this product in the blue color variant? Please help as soon as possible.,General
+TKT00359,Cannot log into account,I enter my username and password but the login button doesn't respond.,Technical
+TKT00234,App crashes on startup,The application closes immediately after opening. Version 3.2.1.,Technical
+TKT00033,Gift card balance check,I received a gift card but don't know the remaining balance. Please help as soon as possible.,General
+TKT00167,VPN connection issue,I cannot connect to the company VPN from my home network.,Technical
+TKT00087,Connection timeout error,I keep getting a connection timeout when trying to access the dashboard.,Technical
+TKT00376,Password reset not working,I requested a password reset but never received the email. Please help as soon as possible.,Technical
+TKT00269,Feedback submission,I'd like to provide feedback on a recent purchase experience.,General
+TKT00126,Charge after cancellation,I canceled my account last month but got charged again.,Billing
+TKT00446,Subscription charge error,I was charged for a subscription I thought I canceled.,Billing
+TKT00317,Promo code not applied,I entered a discount code at checkout but was charged full price.,Billing
+TKT00237,Software update failed,The update downloads but fails at 45 percent every time.,Technical
+TKT00411,Invoice discrepancy,The invoice amount doesn't match my plan pricing.,Billing
+TKT00392,Charge after cancellation,I canceled my account last month but got charged again.,Billing
+TKT00017,Billing cycle question,When does my billing cycle start and end?,Billing
+TKT00226,VPN connection issue,I cannot connect to the company VPN from my home network.,Technical
+TKT00350,Billing cycle question,When does my billing cycle start and end?,Billing
+TKT00188,Password reset not working,I requested a password reset but never received the email.,Technical
+TKT00211,Return policy question,Can I return an item after 30 days if it's unopened?,General
+TKT00312,Gift card balance check,I received a gift card but don't know the remaining balance.,General
+TKT00466,Password reset not working,I requested a password reset but never received the email. Please help as soon as possible.,Technical
+TKT00390,Connection timeout error,I keep getting a connection timeout when trying to access the dashboard.,Technical
+TKT00044,Gift card balance check,I received a gift card but don't know the remaining balance.,General
+TKT00353,VPN connection issue,I cannot connect to the company VPN from my home network.,Technical
+TKT00078,Email delivery delay,Emails are taking several hours to arrive after being sent.,Technical
+TKT00102,Return policy question,Can I return an item after 30 days if it's unopened?,General
+TKT00242,Partnership inquiry,Our company is interested in a partnership opportunity.,General
+TKT00425,App crashes on startup,The application closes immediately after opening. Version 3.2.1.,Technical
+TKT00347,Email delivery delay,Emails are taking several hours to arrive after being sent.,Technical
+TKT00194,Cannot log into account,I enter my username and password but the login button doesn't respond.,Technical
+TKT00490,Warranty information,Does this product come with a warranty and what does it cover?,General
+TKT00469,Duplicate charge on card,There are two identical charges on my credit card statement.,Billing
+TKT00224,Duplicate charge on card,There are two identical charges on my credit card statement.,Billing
+TKT00179,Store location query,What are your store hours on weekends? Please help as soon as possible.,General
+TKT00040,Software update failed,The update downloads but fails at 45 percent every time.,Technical
+TKT00098,Duplicate charge on card,There are two identical charges on my credit card statement.,Billing
+TKT00465,Files not syncing,My files are not syncing between my laptop and the cloud drive.,Technical
+TKT00331,Printer not responding,The printer shows as offline even though it's connected to the network.,Technical
+TKT00387,Email delivery delay,Emails are taking several hours to arrive after being sent.,Technical
+TKT00445,Software update failed,The update downloads but fails at 45 percent every time.,Technical
+TKT00370,Two-factor authentication problem,The authentication app is not generating valid codes.,Technical
+TKT00164,Payment not processed,I made a payment three days ago but it still shows as pending.,Billing
+TKT00247,Cannot log into account,I enter my username and password but the login button doesn't respond.,Technical
+TKT00094,Billing cycle question,When does my billing cycle start and end?,Billing
+TKT00154,Shipping status inquiry,My order shows shipped but the tracking number doesn't work.,General
+TKT00032,Warranty information,Does this product come with a warranty and what does it cover?,General
+TKT00053,App crashes on startup,The application closes immediately after opening. Version 3.2.1.,Technical
+TKT00119,Two-factor authentication problem,The authentication app is not generating valid codes.,Technical
+TKT00388,App crashes on startup,The application closes immediately after opening. Version 3.2.1.,Technical
+TKT00024,Partnership inquiry,Our company is interested in a partnership opportunity. Please help as soon as possible.,General
+TKT00294,Two-factor authentication problem,The authentication app is not generating valid codes.,Technical
+TKT00423,Overcharged this month,My bill shows an extra charge I don't recognize.,Billing
+TKT00496,VPN connection issue,I cannot connect to the company VPN from my home network.,Technical
+TKT00261,Feedback submission,I'd like to provide feedback on a recent purchase experience.,General
+TKT00136,Payment not processed,I made a payment three days ago but it still shows as pending.,Billing
+TKT00176,Invoice discrepancy,The invoice amount doesn't match my plan pricing.,Billing
+TKT00161,Account upgrade request,I want to upgrade from basic to premium plan mid-cycle.,General
+TKT00090,Account upgrade request,I want to upgrade from basic to premium plan mid-cycle.,General
+TKT00283,Email delivery delay,Emails are taking several hours to arrive after being sent.,Technical
+TKT00229,Refund status inquiry,I requested a refund last week and haven't received confirmation.,Billing
+TKT00013,Duplicate charge on card,There are two identical charges on my credit card statement.,Billing
+TKT00006,VPN connection issue,I cannot connect to the company VPN from my home network.,Technical
+TKT00079,Cannot log into account,I enter my username and password but the login button doesn't respond.,Technical
+TKT00421,Warranty information,Does this product come with a warranty and what does it cover?,General
+TKT00133,Billing cycle question,When does my billing cycle start and end? Please help as soon as possible.,Billing
+TKT00398,Media contact,I'm a journalist looking for a press contact for a story.,General
+TKT00393,Connection timeout error,I keep getting a connection timeout when trying to access the dashboard.,Technical
+TKT00239,Payment not processed,I made a payment three days ago but it still shows as pending. Please help as soon as possible.,Billing
+TKT00221,Partnership inquiry,Our company is interested in a partnership opportunity.,General
+TKT00480,App crashes on startup,The application closes immediately after opening. Version 3.2.1.,Technical
+TKT00100,VPN connection issue,I cannot connect to the company VPN from my home network.,Technical
+TKT00361,Feedback submission,I'd like to provide feedback on a recent purchase experience. Please help as soon as possible.,General
+TKT00204,Gift card balance check,I received a gift card but don't know the remaining balance.,General
+TKT00265,Cannot log into account,I enter my username and password but the login button doesn't respond.,Technical
+TKT00005,Product availability question,Do you have this product in the blue color variant?,General
+TKT00182,Warranty information,Does this product come with a warranty and what does it cover?,General
+TKT00209,Files not syncing,My files are not syncing between my laptop and the cloud drive.,Technical
+TKT00074,Media contact,I'm a journalist looking for a press contact for a story. Please help as soon as possible.,General
+TKT00200,App crashes on startup,The application closes immediately after opening. Version 3.2.1.,Technical
+TKT00258,Store location query,What are your store hours on weekends? Please help as soon as possible.,General
+TKT00104,Password reset not working,I requested a password reset but never received the email.,Technical
+TKT00065,Two-factor authentication problem,The authentication app is not generating valid codes.,Technical
+TKT00434,Invoice discrepancy,The invoice amount doesn't match my plan pricing.,Billing
+TKT00461,VPN connection issue,I cannot connect to the company VPN from my home network. Please help as soon as possible.,Technical
+TKT00190,Warranty information,Does this product come with a warranty and what does it cover?,General
+TKT00419,Password reset not working,I requested a password reset but never received the email.,Technical
+TKT00037,Refund status inquiry,I requested a refund last week and haven't received confirmation.,Billing
+TKT00015,Promo code not applied,I entered a discount code at checkout but was charged full price.,Billing
+TKT00328,Promo code not applied,I entered a discount code at checkout but was charged full price.,Billing
+TKT00193,Cannot log into account,I enter my username and password but the login button doesn't respond.,Technical
+TKT00457,Printer not responding,The printer shows as offline even though it's connected to the network.,Technical
+TKT00371,Promo code not applied,I entered a discount code at checkout but was charged full price.,Billing
+TKT00173,Cannot log into account,I enter my username and password but the login button doesn't respond.,Technical
+TKT00468,Annual renewal fee,My annual renewal was processed without notification.,Billing
+TKT00382,App crashes on startup,The application closes immediately after opening. Version 3.2.1.,Technical
+TKT00271,Account upgrade request,I want to upgrade from basic to premium plan mid-cycle.,General
+TKT00450,VPN connection issue,I cannot connect to the company VPN from my home network.,Technical
+TKT00481,Password reset not working,I requested a password reset but never received the email.,Technical
+TKT00259,Media contact,I'm a journalist looking for a press contact for a story.,General
+TKT00103,App crashes on startup,The application closes immediately after opening. Version 3.2.1.,Technical
+TKT00114,Annual renewal fee,My annual renewal was processed without notification.,Billing
+TKT00091,Printer not responding,The printer shows as offline even though it's connected to the network.,Technical
+TKT00022,Media contact,I'm a journalist looking for a press contact for a story.,General
+TKT00196,Files not syncing,My files are not syncing between my laptop and the cloud drive.,Technical
+TKT00489,VPN connection issue,I cannot connect to the company VPN from my home network.,Technical
+TKT00483,Cannot log into account,I enter my username and password but the login button doesn't respond.,Technical
+TKT00454,Feedback submission,I'd like to provide feedback on a recent purchase experience.,General
+TKT00139,Media contact,I'm a journalist looking for a press contact for a story.,General
+TKT00181,Password reset not working,I requested a password reset but never received the email.,Technical
+TKT00455,Product availability question,Do you have this product in the blue color variant?,General
+TKT00358,Promo code not applied,I entered a discount code at checkout but was charged full price.,Billing
+TKT00486,Media contact,I'm a journalist looking for a press contact for a story.,General
+TKT00186,Warranty information,Does this product come with a warranty and what does it cover?,General
+TKT00463,Account upgrade request,I want to upgrade from basic to premium plan mid-cycle.,General
+TKT00322,App crashes on startup,The application closes immediately after opening. Version 3.2.1.,Technical
+TKT00336,VPN connection issue,I cannot connect to the company VPN from my home network.,Technical
+TKT00054,Files not syncing,My files are not syncing between my laptop and the cloud drive.,Technical
+TKT00356,Cannot log into account,I enter my username and password but the login button doesn't respond.,Technical
+TKT00030,Files not syncing,My files are not syncing between my laptop and the cloud drive.,Technical
+TKT00260,Return policy question,Can I return an item after 30 days if it's unopened?,General
+TKT00235,Files not syncing,My files are not syncing between my laptop and the cloud drive.,Technical
+TKT00185,Cannot log into account,I enter my username and password but the login button doesn't respond.,Technical
+TKT00208,Payment not processed,I made a payment three days ago but it still shows as pending.,Billing
+TKT00372,Media contact,I'm a journalist looking for a press contact for a story.,General
+TKT00384,Media contact,I'm a journalist looking for a press contact for a story.,General
+TKT00115,Charge after cancellation,I canceled my account last month but got charged again.,Billing
+TKT00029,Promo code not applied,I entered a discount code at checkout but was charged full price.,Billing
+TKT00399,App crashes on startup,The application closes immediately after opening. Version 3.2.1.,Technical
+TKT00491,Partnership inquiry,Our company is interested in a partnership opportunity.,General
+TKT00249,Return policy question,Can I return an item after 30 days if it's unopened? Please help as soon as possible.,General
+TKT00320,Duplicate charge on card,There are two identical charges on my credit card statement.,Billing
+TKT00474,Files not syncing,My files are not syncing between my laptop and the cloud drive. Please help as soon as possible.,Technical
+TKT00476,Partnership inquiry,Our company is interested in a partnership opportunity.,General
+TKT00295,Billing cycle question,When does my billing cycle start and end?,Billing
+TKT00443,Account upgrade request,I want to upgrade from basic to premium plan mid-cycle.,General
+TKT00367,Payment not processed,I made a payment three days ago but it still shows as pending.,Billing
+TKT00057,Store location query,What are your store hours on weekends?,General
+TKT00252,Product availability question,Do you have this product in the blue color variant?,General
+TKT00043,VPN connection issue,I cannot connect to the company VPN from my home network.,Technical
+TKT00255,Invoice discrepancy,The invoice amount doesn't match my plan pricing.,Billing
+TKT00472,Connection timeout error,I keep getting a connection timeout when trying to access the dashboard.,Technical
+TKT00199,Printer not responding,The printer shows as offline even though it's connected to the network.,Technical
+TKT00451,Partnership inquiry,Our company is interested in a partnership opportunity.,General
+TKT00267,Promo code not applied,I entered a discount code at checkout but was charged full price.,Billing
+TKT00428,Return policy question,Can I return an item after 30 days if it's unopened?,General
+TKT00389,Partnership inquiry,Our company is interested in a partnership opportunity.,General
+TKT00473,Return policy question,Can I return an item after 30 days if it's unopened? Please help as soon as possible.,General
+TKT00444,Printer not responding,The printer shows as offline even though it's connected to the network.,Technical
+TKT00245,Charge after cancellation,I canceled my account last month but got charged again.,Billing
+TKT00499,Account upgrade request,I want to upgrade from basic to premium plan mid-cycle.,General
+TKT00341,Warranty information,Does this product come with a warranty and what does it cover?,General
+TKT00272,Warranty information,Does this product come with a warranty and what does it cover?,General
+TKT00012,Media contact,I'm a journalist looking for a press contact for a story. Please help as soon as possible.,General
+TKT00195,Email delivery delay,Emails are taking several hours to arrive after being sent. Please help as soon as possible.,Technical
+TKT00477,Refund status inquiry,I requested a refund last week and haven't received confirmation.,Billing
+TKT00069,VPN connection issue,I cannot connect to the company VPN from my home network.,Technical
+TKT00122,Warranty information,Does this product come with a warranty and what does it cover?,General
+TKT00232,Product availability question,Do you have this product in the blue color variant?,General
+TKT00349,Password reset not working,I requested a password reset but never received the email.,Technical
+TKT00404,Feedback submission,I'd like to provide feedback on a recent purchase experience.,General
+TKT00130,Cannot log into account,I enter my username and password but the login button doesn't respond.,Technical
+TKT00458,Two-factor authentication problem,The authentication app is not generating valid codes.,Technical
+TKT00096,Charge after cancellation,I canceled my account last month but got charged again.,Billing
+TKT00228,Charge after cancellation,I canceled my account last month but got charged again.,Billing
+TKT00429,Billing cycle question,When does my billing cycle start and end?,Billing
+TKT00308,Software update failed,The update downloads but fails at 45 percent every time.,Technical
+TKT00108,Warranty information,Does this product come with a warranty and what does it cover?,General
+TKT00251,App crashes on startup,The application closes immediately after opening. Version 3.2.1.,Technical
+TKT00031,Connection timeout error,I keep getting a connection timeout when trying to access the dashboard.,Technical
+TKT00254,Printer not responding,The printer shows as offline even though it's connected to the network.,Technical
+TKT00373,Two-factor authentication problem,The authentication app is not generating valid codes.,Technical
+TKT00437,Subscription charge error,I was charged for a subscription I thought I canceled.,Billing
+TKT00285,Warranty information,Does this product come with a warranty and what does it cover?,General
+TKT00282,Promo code not applied,I entered a discount code at checkout but was charged full price.,Billing
+TKT00045,Connection timeout error,I keep getting a connection timeout when trying to access the dashboard.,Technical
+TKT00187,Cannot log into account,I enter my username and password but the login button doesn't respond.,Technical
+TKT00023,Annual renewal fee,My annual renewal was processed without notification.,Billing
+TKT00230,VPN connection issue,I cannot connect to the company VPN from my home network.,Technical
+TKT00462,App crashes on startup,The application closes immediately after opening. Version 3.2.1.,Technical
+TKT00439,Email delivery delay,Emails are taking several hours to arrive after being sent.,Technical
+TKT00408,Product availability question,Do you have this product in the blue color variant?,General
+TKT00279,Invoice discrepancy,The invoice amount doesn't match my plan pricing.,Billing
+TKT00355,Store location query,What are your store hours on weekends?,General
+TKT00348,Product availability question,Do you have this product in the blue color variant?,General
+TKT00041,Two-factor authentication problem,The authentication app is not generating valid codes.,Technical
+TKT00066,Two-factor authentication problem,The authentication app is not generating valid codes.,Technical
+TKT00277,Billing cycle question,When does my billing cycle start and end? Please help as soon as possible.,Billing
+TKT00366,Shipping status inquiry,My order shows shipped but the tracking number doesn't work.,General
+TKT00257,Return policy question,Can I return an item after 30 days if it's unopened? Please help as soon as possible.,General
+TKT00253,Annual renewal fee,My annual renewal was processed without notification.,Billing
+TKT00319,Duplicate charge on card,There are two identical charges on my credit card statement.,Billing
+TKT00077,Invoice discrepancy,The invoice amount doesn't match my plan pricing.,Billing
+TKT00137,Invoice discrepancy,The invoice amount doesn't match my plan pricing.,Billing
+TKT00010,Connection timeout error,I keep getting a connection timeout when trying to access the dashboard.,Technical
+TKT00159,Promo code not applied,I entered a discount code at checkout but was charged full price.,Billing
+TKT00453,Store location query,What are your store hours on weekends?,General
+TKT00149,Connection timeout error,I keep getting a connection timeout when trying to access the dashboard. Please help as soon as possible.,Technical
+TKT00148,Software update failed,The update downloads but fails at 45 percent every time.,Technical
+TKT00438,Overcharged this month,My bill shows an extra charge I don't recognize.,Billing
+TKT00409,Partnership inquiry,Our company is interested in a partnership opportunity.,General
+TKT00225,Shipping status inquiry,My order shows shipped but the tracking number doesn't work.,General
+TKT00378,VPN connection issue,I cannot connect to the company VPN from my home network.,Technical
+TKT00287,Promo code not applied,I entered a discount code at checkout but was charged full price.,Billing
+TKT00442,Connection timeout error,I keep getting a connection timeout when trying to access the dashboard.,Technical
+TKT00416,Gift card balance check,I received a gift card but don't know the remaining balance.,General
+TKT00479,Connection timeout error,I keep getting a connection timeout when trying to access the dashboard.,Technical
+TKT00163,Two-factor authentication problem,The authentication app is not generating valid codes.,Technical
+TKT00321,Return policy question,Can I return an item after 30 days if it's unopened?,General
+TKT00201,Shipping status inquiry,My order shows shipped but the tracking number doesn't work.,General
+TKT00166,Media contact,I'm a journalist looking for a press contact for a story.,General
+TKT00059,Password reset not working,I requested a password reset but never received the email.,Technical
+TKT00099,Promo code not applied,I entered a discount code at checkout but was charged full price.,Billing
+TKT00394,Annual renewal fee,My annual renewal was processed without notification.,Billing
+TKT00332,Software update failed,The update downloads but fails at 45 percent every time.,Technical
+TKT00049,Duplicate charge on card,There are two identical charges on my credit card statement.,Billing
+TKT00067,Cannot log into account,I enter my username and password but the login button doesn't respond.,Technical
+TKT00415,Duplicate charge on card,There are two identical charges on my credit card statement.,Billing
+TKT00048,Cannot log into account,I enter my username and password but the login button doesn't respond.,Technical
+TKT00207,App crashes on startup,The application closes immediately after opening. Version 3.2.1.,Technical
+TKT00151,Gift card balance check,I received a gift card but don't know the remaining balance.,General
+TKT00071,Cannot log into account,I enter my username and password but the login button doesn't respond.,Technical
+TKT00169,Two-factor authentication problem,The authentication app is not generating valid codes. Please help as soon as possible.,Technical
+TKT00124,Invoice discrepancy,The invoice amount doesn't match my plan pricing.,Billing
+TKT00120,Media contact,I'm a journalist looking for a press contact for a story.,General
+TKT00009,Media contact,I'm a journalist looking for a press contact for a story. Please help as soon as possible.,General
+TKT00337,Warranty information,Does this product come with a warranty and what does it cover? Please help as soon as possible.,General
+TKT00008,Return policy question,Can I return an item after 30 days if it's unopened?,General
+TKT00432,Billing cycle question,When does my billing cycle start and end?,Billing
+TKT00435,Account upgrade request,I want to upgrade from basic to premium plan mid-cycle.,General
+TKT00213,Shipping status inquiry,My order shows shipped but the tracking number doesn't work.,General
+TKT00345,Software update failed,The update downloads but fails at 45 percent every time.,Technical
+TKT00117,Connection timeout error,I keep getting a connection timeout when trying to access the dashboard.,Technical
+TKT00334,Billing cycle question,When does my billing cycle start and end?,Billing
+TKT00046,Promo code not applied,I entered a discount code at checkout but was charged full price.,Billing
+TKT00172,VPN connection issue,I cannot connect to the company VPN from my home network.,Technical
+TKT00171,Warranty information,Does this product come with a warranty and what does it cover?,General
+TKT00316,Email delivery delay,Emails are taking several hours to arrive after being sent. Please help as soon as possible.,Technical
+TKT00083,Product availability question,Do you have this product in the blue color variant?,General
+TKT00035,Duplicate charge on card,There are two identical charges on my credit card statement.,Billing
+TKT00297,Software update failed,The update downloads but fails at 45 percent every time.,Technical
+TKT00240,Email delivery delay,Emails are taking several hours to arrive after being sent.,Technical
+TKT00070,Return policy question,Can I return an item after 30 days if it's unopened?,General
+TKT00401,Feedback submission,I'd like to provide feedback on a recent purchase experience.,General
+TKT00470,Gift card balance check,I received a gift card but don't know the remaining balance.,General
+TKT00073,Password reset not working,I requested a password reset but never received the email.,Technical
+TKT00107,Invoice discrepancy,The invoice amount doesn't match my plan pricing.,Billing
+TKT00262,Charge after cancellation,I canceled my account last month but got charged again.,Billing
+TKT00414,Feedback submission,I'd like to provide feedback on a recent purchase experience.,General
+TKT00396,Cannot log into account,I enter my username and password but the login button doesn't respond.,Technical
+TKT00402,Connection timeout error,I keep getting a connection timeout when trying to access the dashboard.,Technical
+TKT00001,Payment not processed,I made a payment three days ago but it still shows as pending. Please help as soon as possible.,Billing
+TKT00145,Account upgrade request,I want to upgrade from basic to premium plan mid-cycle.,General
+TKT00157,Annual renewal fee,My annual renewal was processed without notification.,Billing
+TKT00105,Files not syncing,My files are not syncing between my laptop and the cloud drive.,Technical
+TKT00143,Cannot log into account,I enter my username and password but the login button doesn't respond.,Technical
+TKT00431,Gift card balance check,I received a gift card but don't know the remaining balance.,General
+TKT00452,Media contact,I'm a journalist looking for a press contact for a story.,General
+TKT00155,Two-factor authentication problem,The authentication app is not generating valid codes.,Technical
+TKT00238,Promo code not applied,I entered a discount code at checkout but was charged full price.,Billing
+TKT00447,Promo code not applied,I entered a discount code at checkout but was charged full price.,Billing
+TKT00026,Warranty information,Does this product come with a warranty and what does it cover?,General
+TKT00051,Billing cycle question,When does my billing cycle start and end?,Billing
+TKT00441,App crashes on startup,The application closes immediately after opening. Version 3.2.1.,Technical
+TKT00274,Feedback submission,I'd like to provide feedback on a recent purchase experience.,General
+TKT00140,Email delivery delay,Emails are taking several hours to arrive after being sent.,Technical
+TKT00276,Email delivery delay,Emails are taking several hours to arrive after being sent.,Technical
+TKT00400,VPN connection issue,I cannot connect to the company VPN from my home network. Please help as soon as possible.,Technical
+TKT00352,Media contact,I'm a journalist looking for a press contact for a story.,General
+TKT00050,Overcharged this month,My bill shows an extra charge I don't recognize.,Billing
+TKT00202,Password reset not working,I requested a password reset but never received the email.,Technical
+TKT00291,Connection timeout error,I keep getting a connection timeout when trying to access the dashboard.,Technical
+TKT00280,Partnership inquiry,Our company is interested in a partnership opportunity.,General
+TKT00123,Invoice discrepancy,The invoice amount doesn't match my plan pricing.,Billing
+TKT00362,Two-factor authentication problem,The authentication app is not generating valid codes.,Technical
+TKT00430,Product availability question,Do you have this product in the blue color variant?,General
+TKT00498,Partnership inquiry,Our company is interested in a partnership opportunity.,General
+TKT00106,Refund status inquiry,I requested a refund last week and haven't received confirmation. Please help as soon as possible.,Billing
+TKT00020,Email delivery delay,Emails are taking several hours to arrive after being sent.,Technical
+TKT00424,Store location query,What are your store hours on weekends?,General
+TKT00325,Files not syncing,My files are not syncing between my laptop and the cloud drive.,Technical
+TKT00342,App crashes on startup,The application closes immediately after opening. Version 3.2.1.,Technical
+TKT00042,Cannot log into account,I enter my username and password but the login button doesn't respond.,Technical
+TKT00270,Product availability question,Do you have this product in the blue color variant?,General
+TKT00227,Duplicate charge on card,There are two identical charges on my credit card statement.,Billing
+TKT00299,Charge after cancellation,I canceled my account last month but got charged again. Please help as soon as possible.,Billing
+TKT00497,Connection timeout error,I keep getting a connection timeout when trying to access the dashboard.,Technical
+TKT00363,Feedback submission,I'd like to provide feedback on a recent purchase experience.,General
+TKT00132,Partnership inquiry,Our company is interested in a partnership opportunity.,General
+TKT00482,Return policy question,Can I return an item after 30 days if it's unopened?,General
+TKT00152,Invoice discrepancy,The invoice amount doesn't match my plan pricing.,Billing
+TKT00153,Charge after cancellation,I canceled my account last month but got charged again.,Billing
+TKT00220,Product availability question,Do you have this product in the blue color variant?,General
+TKT00116,Subscription charge error,I was charged for a subscription I thought I canceled.,Billing
+TKT00417,Overcharged this month,My bill shows an extra charge I don't recognize.,Billing
+TKT00436,Payment not processed,I made a payment three days ago but it still shows as pending.,Billing
+TKT00495,Overcharged this month,My bill shows an extra charge I don't recognize.,Billing
+TKT00084,Connection timeout error,I keep getting a connection timeout when trying to access the dashboard.,Technical
+TKT00002,Connection timeout error,I keep getting a connection timeout when trying to access the dashboard.,Technical
+TKT00264,Store location query,What are your store hours on weekends?,General
+TKT00329,Cannot log into account,I enter my username and password but the login button doesn't respond.,Technical
+TKT00109,Account upgrade request,I want to upgrade from basic to premium plan mid-cycle.,General
+TKT00354,Warranty information,Does this product come with a warranty and what does it cover? Please help as soon as possible.,General
+TKT00266,Gift card balance check,I received a gift card but don't know the remaining balance.,General
+TKT00395,Feedback submission,I'd like to provide feedback on a recent purchase experience.,General
+TKT00290,Store location query,What are your store hours on weekends?,General
+TKT00223,Feedback submission,I'd like to provide feedback on a recent purchase experience. Please help as soon as possible.,General
+TKT00304,Product availability question,Do you have this product in the blue color variant? Please help as soon as possible.,General
+TKT00092,App crashes on startup,The application closes immediately after opening. Version 3.2.1.,Technical
+TKT00315,Return policy question,Can I return an item after 30 days if it's unopened?,General
+TKT00460,Return policy question,Can I return an item after 30 days if it's unopened?,General
+TKT00198,VPN connection issue,I cannot connect to the company VPN from my home network.,Technical
+TKT00464,Gift card balance check,I received a gift card but don't know the remaining balance.,General
+TKT00064,Annual renewal fee,My annual renewal was processed without notification.,Billing
+TKT00142,Partnership inquiry,Our company is interested in a partnership opportunity.,General
+TKT00212,Feedback submission,I'd like to provide feedback on a recent purchase experience.,General
+TKT00407,Billing cycle question,When does my billing cycle start and end?,Billing
+TKT00309,Gift card balance check,I received a gift card but don't know the remaining balance.,General
+TKT00343,Return policy question,Can I return an item after 30 days if it's unopened? Please help as soon as possible.,General
+TKT00449,Billing cycle question,When does my billing cycle start and end?,Billing
+TKT00330,VPN connection issue,I cannot connect to the company VPN from my home network.,Technical
+TKT00364,Warranty information,Does this product come with a warranty and what does it cover?,General
+TKT00338,Annual renewal fee,My annual renewal was processed without notification.,Billing
+TKT00278,Software update failed,The update downloads but fails at 45 percent every time.,Technical
+TKT00081,Subscription charge error,I was charged for a subscription I thought I canceled.,Billing
+TKT00018,Account upgrade request,I want to upgrade from basic to premium plan mid-cycle.,General
+TKT00397,Store location query,What are your store hours on weekends?,General
+TKT00131,Connection timeout error,I keep getting a connection timeout when trying to access the dashboard.,Technical
+TKT00101,Promo code not applied,I entered a discount code at checkout but was charged full price.,Billing
+TKT00380,Printer not responding,The printer shows as offline even though it's connected to the network.,Technical
+TKT00097,Files not syncing,My files are not syncing between my laptop and the cloud drive.,Technical
+TKT00323,Two-factor authentication problem,The authentication app is not generating valid codes.,Technical
+TKT00158,Warranty information,Does this product come with a warranty and what does it cover?,General
+TKT00076,VPN connection issue,I cannot connect to the company VPN from my home network.,Technical
+TKT00488,Printer not responding,The printer shows as offline even though it's connected to the network.,Technical
+TKT00410,Annual renewal fee,My annual renewal was processed without notification.,Billing
+TKT00268,Subscription charge error,I was charged for a subscription I thought I canceled.,Billing
+TKT00175,Promo code not applied,I entered a discount code at checkout but was charged full price.,Billing
+TKT00088,Warranty information,Does this product come with a warranty and what does it cover?,General
+TKT00168,Promo code not applied,I entered a discount code at checkout but was charged full price.,Billing
+TKT00485,App crashes on startup,The application closes immediately after opening. Version 3.2.1.,Technical
+TKT00072,Promo code not applied,I entered a discount code at checkout but was charged full price.,Billing
+TKT00062,Overcharged this month,My bill shows an extra charge I don't recognize.,Billing
+TKT00191,Connection timeout error,I keep getting a connection timeout when trying to access the dashboard.,Technical
+TKT00219,Product availability question,Do you have this product in the blue color variant?,General
+TKT00089,Connection timeout error,I keep getting a connection timeout when trying to access the dashboard.,Technical
+TKT00360,Files not syncing,My files are not syncing between my laptop and the cloud drive.,Technical
+TKT00068,Invoice discrepancy,The invoice amount doesn't match my plan pricing.,Billing
+TKT00303,Printer not responding,The printer shows as offline even though it's connected to the network.,Technical
+TKT00052,Invoice discrepancy,The invoice amount doesn't match my plan pricing.,Billing
+TKT00141,Account upgrade request,I want to upgrade from basic to premium plan mid-cycle.,General
+TKT00286,Charge after cancellation,I canceled my account last month but got charged again. Please help as soon as possible.,Billing
+TKT00146,Payment not processed,I made a payment three days ago but it still shows as pending.,Billing
+TKT00493,Charge after cancellation,I canceled my account last month but got charged again.,Billing
+TKT00288,Product availability question,Do you have this product in the blue color variant?,General
+TKT00301,Software update failed,The update downloads but fails at 45 percent every time.,Technical
+TKT00344,Warranty information,Does this product come with a warranty and what does it cover?,General
+TKT00327,Store location query,What are your store hours on weekends?,General
+TKT00075,Billing cycle question,When does my billing cycle start and end?,Billing
+TKT00368,Product availability question,Do you have this product in the blue color variant?,General
+TKT00231,Subscription charge error,I was charged for a subscription I thought I canceled.,Billing
+TKT00302,Promo code not applied,I entered a discount code at checkout but was charged full price.,Billing
+TKT00135,Charge after cancellation,I canceled my account last month but got charged again.,Billing
+TKT00025,Product availability question,Do you have this product in the blue color variant?,General
+TKT00144,Return policy question,Can I return an item after 30 days if it's unopened?,General
+TKT00113,Invoice discrepancy,The invoice amount doesn't match my plan pricing.,Billing
+TKT00413,Feedback submission,I'd like to provide feedback on a recent purchase experience.,General
+TKT00467,Billing cycle question,When does my billing cycle start and end? Please help as soon as possible.,Billing
+TKT00217,Annual renewal fee,My annual renewal was processed without notification.,Billing
+TKT00492,Charge after cancellation,I canceled my account last month but got charged again. Please help as soon as possible.,Billing
+TKT00310,Payment not processed,I made a payment three days ago but it still shows as pending.,Billing
+TKT00192,Return policy question,Can I return an item after 30 days if it's unopened?,General
+TKT00289,Account upgrade request,I want to upgrade from basic to premium plan mid-cycle.,General
+TKT00174,Printer not responding,The printer shows as offline even though it's connected to the network. Please help as soon as possible.,Technical
+TKT00085,Software update failed,The update downloads but fails at 45 percent every time. Please help as soon as possible.,Technical
+TKT00004,Store location query,What are your store hours on weekends? Please help as soon as possible.,General
+TKT00357,Gift card balance check,I received a gift card but don't know the remaining balance.,General
+TKT00351,VPN connection issue,I cannot connect to the company VPN from my home network. Please help as soon as possible.,Technical
+TKT00156,Duplicate charge on card,There are two identical charges on my credit card statement.,Billing
+TKT00263,Gift card balance check,I received a gift card but don't know the remaining balance.,General
+TKT00128,Email delivery delay,Emails are taking several hours to arrive after being sent.,Technical
+TKT00340,Printer not responding,The printer shows as offline even though it's connected to the network.,Technical
+TKT00007,Two-factor authentication problem,The authentication app is not generating valid codes. Please help as soon as possible.,Technical
+TKT00374,Password reset not working,I requested a password reset but never received the email.,Technical
+TKT00379,Annual renewal fee,My annual renewal was processed without notification.,Billing
+TKT00233,Connection timeout error,I keep getting a connection timeout when trying to access the dashboard.,Technical
+TKT00433,Payment not processed,I made a payment three days ago but it still shows as pending.,Billing
+TKT00335,Media contact,I'm a journalist looking for a press contact for a story.,General
+TKT00307,Cannot log into account,I enter my username and password but the login button doesn't respond.,Technical
+TKT00300,Printer not responding,The printer shows as offline even though it's connected to the network.,Technical
+TKT00475,Overcharged this month,My bill shows an extra charge I don't recognize.,Billing
+TKT00383,Annual renewal fee,My annual renewal was processed without notification.,Billing
+TKT00150,Software update failed,The update downloads but fails at 45 percent every time.,Technical
+TKT00339,Shipping status inquiry,My order shows shipped but the tracking number doesn't work.,General
+TKT00293,Annual renewal fee,My annual renewal was processed without notification.,Billing
+TKT00427,Printer not responding,The printer shows as offline even though it's connected to the network. Please help as soon as possible.,Technical
+TKT00406,Payment not processed,I made a payment three days ago but it still shows as pending.,Billing
+TKT00177,Charge after cancellation,I canceled my account last month but got charged again.,Billing
+TKT00426,Account upgrade request,I want to upgrade from basic to premium plan mid-cycle.,General
+TKT00183,Email delivery delay,Emails are taking several hours to arrive after being sent.,Technical
+TKT00222,Printer not responding,The printer shows as offline even though it's connected to the network.,Technical
+TKT00038,Password reset not working,I requested a password reset but never received the email.,Technical
+TKT00184,Connection timeout error,I keep getting a connection timeout when trying to access the dashboard. Please help as soon as possible.,Technical
+TKT00494,VPN connection issue,I cannot connect to the company VPN from my home network.,Technical
+TKT00305,Email delivery delay,Emails are taking several hours to arrive after being sent.,Technical
+TKT00216,Charge after cancellation,I canceled my account last month but got charged again.,Billing
+TKT00125,Connection timeout error,I keep getting a connection timeout when trying to access the dashboard.,Technical
+TKT00298,Product availability question,Do you have this product in the blue color variant?,General
+TKT00250,Charge after cancellation,I canceled my account last month but got charged again.,Billing
+TKT00215,Two-factor authentication problem,The authentication app is not generating valid codes.,Technical
+TKT00241,Software update failed,The update downloads but fails at 45 percent every time. Please help as soon as possible.,Technical
+TKT00180,Invoice discrepancy,The invoice amount doesn't match my plan pricing.,Billing
+TKT00275,Account upgrade request,I want to upgrade from basic to premium plan mid-cycle.,General
+TKT00011,Annual renewal fee,My annual renewal was processed without notification.,Billing
+TKT00205,Software update failed,The update downloads but fails at 45 percent every time.,Technical
+TKT00178,Invoice discrepancy,The invoice amount doesn't match my plan pricing.,Billing
+TKT00160,Software update failed,The update downloads but fails at 45 percent every time.,Technical
+TKT00324,Printer not responding,The printer shows as offline even though it's connected to the network.,Technical
+TKT00058,Overcharged this month,My bill shows an extra charge I don't recognize.,Billing
+TKT00244,Password reset not working,I requested a password reset but never received the email.,Technical
+TKT00484,Gift card balance check,I received a gift card but don't know the remaining balance.,General
+TKT00197,Cannot log into account,I enter my username and password but the login button doesn't respond.,Technical
+TKT00034,Feedback submission,I'd like to provide feedback on a recent purchase experience. Please help as soon as possible.,General
+TKT00118,Connection timeout error,I keep getting a connection timeout when trying to access the dashboard.,Technical
+TKT00000,Email delivery delay,Emails are taking several hours to arrive after being sent.,Technical
+TKT00284,Account upgrade request,I want to upgrade from basic to premium plan mid-cycle.,General
+TKT00281,Two-factor authentication problem,The authentication app is not generating valid codes.,Technical
+TKT00019,Partnership inquiry,Our company is interested in a partnership opportunity.,General
+TKT00292,Feedback submission,I'd like to provide feedback on a recent purchase experience.,General
+TKT00456,Overcharged this month,My bill shows an extra charge I don't recognize.,Billing
+TKT00129,Account upgrade request,I want to upgrade from basic to premium plan mid-cycle.,General

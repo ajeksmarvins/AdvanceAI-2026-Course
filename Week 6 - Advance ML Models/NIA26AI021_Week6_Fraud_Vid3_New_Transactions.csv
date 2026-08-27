@@ -1,0 +1,6 @@
+transaction_id,amount,transaction_hour,merchant_category,foreign_transaction,location_mismatch,device_trust_score,velocity_last_24h,cardholder_age
+NEW_TXN_001,84.47,22,Electronics,0,0,66,3,40
+NEW_TXN_002,541.82,3,Travel,1,0,87,1,64
+NEW_TXN_003,237.01,17,Grocery,0,0,49,1,61
+NEW_TXN_004,164.33,4,Grocery,0,1,72,3,34
+NEW_TXN_005,30.53,15,Food,0,0,79,0,44
