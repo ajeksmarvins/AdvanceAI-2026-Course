@@ -1,9 +1,0 @@
-metric,value
-true_negatives,522
-false_positives,327
-false_negatives,58
-true_positives,93
-prevented_fraud_value,9300000
-false_negative_cost,5800000
-false_positive_cost,1635000
-estimated_net_impact,1865000
