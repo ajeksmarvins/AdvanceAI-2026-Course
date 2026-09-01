@@ -1,0 +1,11 @@
+amount,transaction_hour,foreign_transaction,location_mismatch,device_trust_score,velocity_last_24h,cardholder_age,prediction,fraud_probability,confidence,risk_level,recommended_action
+74.11,4,0,0,88,1,56,0,0.0,1.0,Low,Approve
+268.9,12,0,1,45,1,29,0,0.0,1.0,Low,Approve
+176.02,5,0,0,60,2,37,0,0.0,1.0,Low,Approve
+6.52,14,0,0,73,2,42,0,0.0,1.0,Low,Approve
+154.92,3,0,0,26,3,21,0,0.0172,0.9828,Low,Approve
+51.17,13,0,1,75,2,42,0,0.0,1.0,Low,Approve
+28.63,2,0,0,84,4,33,0,0.0,1.0,Low,Approve
+185.29,23,0,0,95,2,62,0,0.0,1.0,Low,Approve
+114.21,13,0,0,52,2,22,0,0.0,1.0,Low,Approve
+15.27,22,0,0,66,2,25,0,0.0,1.0,Low,Approve

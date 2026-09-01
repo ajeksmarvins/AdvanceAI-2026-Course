@@ -1,0 +1,42 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Trained models
+models/*.pkl
+models/*.joblib
+
+# Generated outputs
+outputs/*.csv
+outputs/*.db
+outputs/*.log
+outputs/*.png
+
+# Local datasets
+data/*.csv
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Python packaging
+*.egg-info/
+dist/
+build/
