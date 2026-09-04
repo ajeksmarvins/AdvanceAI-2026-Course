@@ -2,3 +2,8 @@
 **/*Practical*
 **/*practice*
 Week 4 - AI-ML Landscape/Microsoft/
+.env
+*.env
+__pycache__/
+*.pyc
+.vscode/
