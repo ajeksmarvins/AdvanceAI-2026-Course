@@ -1,0 +1,9 @@
+call_type,temperature,repeat,prompt_tokens,completion_tokens,total_tokens
+temperature_comparison,0.0,,92,50,142
+temperature_comparison,0.3,,92,50,142
+temperature_comparison,0.5,,92,50,142
+temperature_comparison,0.7,,92,50,142
+temperature_comparison,1.0,,92,50,142
+zero_temperature_repeat,0.0,1,92,50,142
+zero_temperature_repeat,0.0,2,92,50,142
+zero_temperature_repeat,0.0,3,92,50,142
