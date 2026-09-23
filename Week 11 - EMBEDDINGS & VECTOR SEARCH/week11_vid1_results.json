@@ -1,0 +1,200 @@
+{
+  "semantic_search": [
+    {
+      "query": "How do computers learn from examples?",
+      "semantic_results": [
+        {
+          "similarity": 0.6888,
+          "text": "Machine learning allows computers to learn patterns from examples and use those patterns to make predictions.",
+          "metadata": {
+            "title": "Machine Learning",
+            "source": "AI Guide",
+            "page": 1
+          }
+        },
+        {
+          "similarity": 0.4544,
+          "text": "Prompt engineering uses clear instructions, context, examples, and constraints to guide a language model toward useful outputs.",
+          "metadata": {
+            "title": "Prompt Engineering",
+            "source": "AI Guide",
+            "page": 2
+          }
+        },
+        {
+          "similarity": 0.3567,
+          "text": "Embeddings represent text as numerical vectors so that semantically similar pieces of information can be found even when they use different words.",
+          "metadata": {
+            "title": "Embeddings",
+            "source": "AI Guide",
+            "page": 3
+          }
+        }
+      ],
+      "keyword_matches": [
+        "Machine Learning",
+        "Temperature",
+        "Document AI"
+      ]
+    },
+    {
+      "query": "How can I give an AI clearer instructions?",
+      "semantic_results": [
+        {
+          "similarity": 0.3989,
+          "text": "Prompt engineering uses clear instructions, context, examples, and constraints to guide a language model toward useful outputs.",
+          "metadata": {
+            "title": "Prompt Engineering",
+            "source": "AI Guide",
+            "page": 2
+          }
+        },
+        {
+          "similarity": 0.3745,
+          "text": "Document AI can extract useful information from documents such as invoices, receipts, and forms and turn it into structured data.",
+          "metadata": {
+            "title": "Document AI",
+            "source": "AI Guide",
+            "page": 8
+          }
+        },
+        {
+          "similarity": 0.3628,
+          "text": "Machine learning allows computers to learn patterns from examples and use those patterns to make predictions.",
+          "metadata": {
+            "title": "Machine Learning",
+            "source": "AI Guide",
+            "page": 1
+          }
+        }
+      ],
+      "keyword_matches": [
+        "Temperature",
+        "Document AI",
+        "Embeddings"
+      ]
+    },
+    {
+      "query": "How can a system find information with different wording?",
+      "semantic_results": [
+        {
+          "similarity": 0.4578,
+          "text": "Embeddings represent text as numerical vectors so that semantically similar pieces of information can be found even when they use different words.",
+          "metadata": {
+            "title": "Embeddings",
+            "source": "AI Guide",
+            "page": 3
+          }
+        },
+        {
+          "similarity": 0.3863,
+          "text": "Document AI can extract useful information from documents such as invoices, receipts, and forms and turn it into structured data.",
+          "metadata": {
+            "title": "Document AI",
+            "source": "AI Guide",
+            "page": 8
+          }
+        },
+        {
+          "similarity": 0.3561,
+          "text": "Retrieval augmented generation combines document retrieval with a language model so the model can answer questions using a selected knowledge base.",
+          "metadata": {
+            "title": "RAG",
+            "source": "AI Guide",
+            "page": 4
+          }
+        }
+      ],
+      "keyword_matches": [
+        "Embeddings",
+        "RAG",
+        "Temperature"
+      ]
+    },
+    {
+      "query": "How can an AI answer questions from my own documents?",
+      "semantic_results": [
+        {
+          "similarity": 0.6117,
+          "text": "Document AI can extract useful information from documents such as invoices, receipts, and forms and turn it into structured data.",
+          "metadata": {
+            "title": "Document AI",
+            "source": "AI Guide",
+            "page": 8
+          }
+        },
+        {
+          "similarity": 0.4856,
+          "text": "Retrieval augmented generation combines document retrieval with a language model so the model can answer questions using a selected knowledge base.",
+          "metadata": {
+            "title": "RAG",
+            "source": "AI Guide",
+            "page": 4
+          }
+        },
+        {
+          "similarity": 0.3338,
+          "text": "Machine learning allows computers to learn patterns from examples and use those patterns to make predictions.",
+          "metadata": {
+            "title": "Machine Learning",
+            "source": "AI Guide",
+            "page": 1
+          }
+        }
+      ],
+      "keyword_matches": [
+        "RAG",
+        "Document AI",
+        "Temperature"
+      ]
+    },
+    {
+      "query": "How can a model trigger an external service?",
+      "semantic_results": [
+        {
+          "similarity": 0.3287,
+          "text": "Function calling allows a language model to request external tools such as databases, APIs, or support systems to complete a task.",
+          "metadata": {
+            "title": "Function Calling",
+            "source": "AI Guide",
+            "page": 5
+          }
+        },
+        {
+          "similarity": 0.2275,
+          "text": "Model validation checks how well a machine learning system performs on data that was not used to train the model.",
+          "metadata": {
+            "title": "Model Validation",
+            "source": "AI Guide",
+            "page": 10
+          }
+        },
+        {
+          "similarity": 0.1552,
+          "text": "Temperature controls how much variation or randomness a language model can use when generating responses.",
+          "metadata": {
+            "title": "Temperature",
+            "source": "AI Guide",
+            "page": 6
+          }
+        }
+      ],
+      "keyword_matches": [
+        "Temperature",
+        "RAG",
+        "Function Calling"
+      ]
+    }
+  ],
+  "industry_use_case": {
+    "industry": "AI Automation / Technology",
+    "use_case": "Semantic search can help an AI automation team search project documentation by meaning instead of exact keywords.",
+    "documents_to_index": [
+      "API documentation",
+      "automation workflows",
+      "troubleshooting guides",
+      "project notes",
+      "standard operating procedures"
+    ]
+  }
+}

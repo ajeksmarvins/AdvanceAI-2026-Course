@@ -1,0 +1,11 @@
+{
+    "document_type": "INVOICE",
+    "document_number": "INV-2025-00123",
+    "date": "March 15, 2025",
+    "issuer_name": "TechCorp Solutions",
+    "customer_or_supplier": "Acme Corporation",
+    "subtotal": "$3,849.88",
+    "tax": "$327.24",
+    "total": "$4,177.12",
+    "currency": "USD"
+}

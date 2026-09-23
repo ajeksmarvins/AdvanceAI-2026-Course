@@ -1,0 +1,49 @@
+[
+  {
+    "question": "How does RAG use a knowledge base to answer questions?",
+    "answer": "Retrieval\u2011Augmented Generation (RAG) works by first querying a knowledge base to find document chunks that are relevant to the user\u2019s question. Those retrieved chunks are then fed to the language model as context, and the model generates its answer using that information, allowing the response to be grounded in the knowledge base content\u3010RAG, page\u202f4\u3011.",
+    "sources": [
+      {
+        "title": "RAG",
+        "page_number": 4,
+        "similarity": 0.6744
+      }
+    ]
+  },
+  {
+    "question": "How can a vector database find information with similar meaning?",
+    "answer": "A vector database stores the numerical embeddings of documents and, when a query is issued, it converts the query into its own embedding and then compares that embedding to the stored ones. By measuring similarity between the query\u2019s vector and the vectors in the database, it can return the records whose embeddings are closest\u2014i.e., the pieces of text that have the most similar meaning, even if the exact words differ.\u202f[Vector Databases, page\u202f9]",
+    "sources": [
+      {
+        "title": "Vector Databases",
+        "page_number": 9,
+        "similarity": 0.7381
+      },
+      {
+        "title": "Embeddings",
+        "page_number": 3,
+        "similarity": 0.5401
+      },
+      {
+        "title": "RAG",
+        "page_number": 4,
+        "similarity": 0.3358
+      },
+      {
+        "title": "Machine Learning",
+        "page_number": 1,
+        "similarity": 0.3068
+      }
+    ]
+  },
+  {
+    "question": "What is the recipe for jollof rice?",
+    "answer": "I don't know. I could not find relevant information in the documents.",
+    "sources": []
+  },
+  {
+    "question": "What are the symptoms of malaria?",
+    "answer": "I don't know. I could not find relevant information in the documents.",
+    "sources": []
+  }
+]

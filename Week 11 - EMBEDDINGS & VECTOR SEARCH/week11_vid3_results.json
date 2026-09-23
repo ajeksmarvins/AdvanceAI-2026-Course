@@ -1,0 +1,44 @@
+[
+  {
+    "question": "How can Python be used to build an AI automation workflow?",
+    "answer": "Python can serve as the \u201cglue\u201d that strings together the different AI\u2011driven steps of an automation workflow.  Because Python is a common language for automation and AI projects, you can write reusable **functions** that call a large\u2011language model to classify, summarize, or generate structured output, then use Python\u2019s **lists**, **dictionaries**, and third\u2011party **libraries** to pass data between steps and invoke external tools or services.  By chaining these functions you create a workflow that connects multiple AI actions, and you can embed the recommended best practices\u2014clear instructions, validation of results, testing, and error\u2011handling\u2014directly in the Python code\u202f[Python Basics, chunk\u202f1]\u202f[AI Automation, chunk\u202f1].",
+    "sources": [
+      {
+        "title": "AI Automation",
+        "page": 1,
+        "similarity": 0.7315
+      },
+      {
+        "title": "Python Basics",
+        "page": 1,
+        "similarity": 0.6642
+      }
+    ]
+  },
+  {
+    "question": "How can a Python-based AI automation project keep its API keys secure?",
+    "answer": "A Python\u2011based AI automation project should keep its API keys out of the source code and store them only in a protected location that isn\u2019t tracked by version control.  \n- Place the keys in environment variables or in a local\u202f`.env`\u202ffile rather than hard\u2011coding them in Python scripts.  \n- Add the\u202f`.env`\u202ffile to\u202f`.gitignore`\u202fso that it is never committed to GitHub or any other repository.  \n\nBy loading the credentials from the environment at runtime (e.g., with\u202f`os.getenv`\u202for a library that reads\u202f`.env`\u202ffiles), the project can use the keys while keeping them secret and reducing the risk of accidental exposure.  \n\n**Sources**  \n-\u202f[Cybersecurity Basics, chunk 1] \u2013 recommends keeping API keys, passwords, and other credentials secret, using environment variables and\u202f`.env`\u202ffiles, and adding\u202f`.env`\u202fto\u202f`.gitignore`\u202fto prevent tracking.  \n-\u202f[Python Basics, chunk 1] \u2013 notes that Python can be used to build automation workflows that connect different tools and services, which would include calling external APIs with those securely stored keys.",
+    "sources": [
+      {
+        "title": "Python Basics",
+        "page": 1,
+        "similarity": 0.4559
+      },
+      {
+        "title": "AI Automation",
+        "page": 1,
+        "similarity": 0.4015
+      },
+      {
+        "title": "Cybersecurity Basics",
+        "page": 1,
+        "similarity": 0.3364
+      }
+    ]
+  },
+  {
+    "question": "What is the recipe for jollof rice?",
+    "answer": "I don't know. I could not find relevant information in the documents.",
+    "sources": []
+  }
+]

@@ -1,0 +1,5 @@
+sentence-transformers
+groq
+python-dotenv
+supabase
+streamlit

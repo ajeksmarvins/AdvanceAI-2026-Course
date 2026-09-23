@@ -1,0 +1,44 @@
+[
+    {
+        "document": "Invoice",
+        "data": {
+            "document_type": "INVOICE",
+            "document_number": "INV-2025-00123",
+            "date": "March 15, 2025",
+            "issuer_name": "TechCorp Solutions",
+            "customer_or_supplier": "Acme Corporation",
+            "subtotal": 3849.88,
+            "tax": 327.24,
+            "total": 4177.12,
+            "currency": "USD"
+        }
+    },
+    {
+        "document": "Receipt",
+        "data": {
+            "document_type": "SALES RECEIPT",
+            "document_number": "RCP-2026-00451",
+            "date": "September 10, 2026",
+            "issuer_name": "BrightMart Electronics",
+            "customer_or_supplier": "Marvin Technologies",
+            "subtotal": 225.0,
+            "tax": 18.0,
+            "total": 243.0,
+            "currency": "$"
+        }
+    },
+    {
+        "document": "Purchase Order",
+        "data": {
+            "document_type": "PURCHASE ORDER",
+            "document_number": "PO-2026-00887",
+            "date": "September 11, 2026",
+            "issuer_name": "NovaTech Supplies",
+            "customer_or_supplier": "DataCore Systems Ltd.",
+            "subtotal": 1130.0,
+            "tax": null,
+            "total": null,
+            "currency": "USD"
+        }
+    }
+]

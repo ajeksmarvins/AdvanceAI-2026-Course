@@ -1,0 +1,20 @@
+[
+    {
+        "document": "Invoice",
+        "correct": 9,
+        "total_fields": 9,
+        "accuracy": 100.0
+    },
+    {
+        "document": "Receipt",
+        "correct": 8,
+        "total_fields": 9,
+        "accuracy": 88.89
+    },
+    {
+        "document": "Purchase Order",
+        "correct": 9,
+        "total_fields": 9,
+        "accuracy": 100.0
+    }
+]
